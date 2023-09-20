@@ -1,9 +1,13 @@
 # covid-19-self-checker
 
-Created using skills acquired from Girls Who Code Summer Immersion Program.
+>This is a website I created using skills acquired from the Girls Who Code Summer Immersion Program. Its purpose is for each person to check what their next steps should be given their current state, and other factors.
+> Note: Information on website last updated: August 2020
 
-You can access the website [here.](https://covid-19-self-checker.glitch.me)
+## Languages Used
+- HTML
+- CSS
+- JavaScript
+- Development Environment: [Glitch.com](Glitch.com)
 
-A simple daily task like this will provide more information about what you should do, based on your current state.
+You can utilize/view the website [here.](https://covid-19-self-checker.glitch.me)
 
-[Information on website last updated: August 2020]
